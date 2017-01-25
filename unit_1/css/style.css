@@ -1,7 +1,27 @@
 body {
-	background-color: #BBAEE6;
+	background-color: white;
+	text-align: center;
 }
 
 h1, p {
-	color: #F4F7F6;
+	color: black;
+}
+
+h1,h3 {
+	font-family: Arial, sans-serif;
+	font-weight: : normal;
+	text-decoration: underline;
+	text-transform: uppercase;
+}
+
+h3 {
+	font-size: 24px;
+	}
+
+p {
+	font-family: "Courier New", monospace;
+}
+
+a { 
+	text-decoration: none; 
 }
